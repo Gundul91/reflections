@@ -1,0 +1,26 @@
+Aiuta a trovare più rapidamente gli errori e a ricordarsi le modifiche effettuate
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+aiuta a non perdere codice anche nel caso i problemi si presentino diversi salvataggi dopo
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pro: scegli i momenti migliori per salvare, semplici da descrivere e da comprendere. Non crei salvataggi inutili.
+contro: potresti dimenticare di fare salvataggi e trovarti con un salvataggio troppo grande
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+perchè alcuni sono più indirizzati alla programmazione dove solitamente tutti i file di una cartella sono necessari per far andare il programma
+
+-How can you use the commands git log and git diff to view the history of files?
+
+cerco con git log la descrizione di quello che cerco e con diff vedo le modifiche fatte
+
+-How might using version control make you more confident to make changes that could break something?
+
+mi permette di fare cambiamenti in tranquillità perchè so di poter tornare indietro quando voglio
+
+-Now that you have your workspace set up, what do you want to try using Git for?
+
+ricontrollare le modifiche del file precedente per vedere i cambiamenti grafici di git
