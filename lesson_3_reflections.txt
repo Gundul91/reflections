@@ -1,11 +1,15 @@
-When would you want to use a remote repository rather than keeping all your work local?
+-When would you want to use a remote repository rather than keeping all your work local?
 
 quando voglio condividere il mio progetto con altri persone
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 perchè potrei non voler caricare una modifica
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+-What is the benefit of having a copy of the last known state of the remote stored locally?
 
 hai tutte le ultime modifiche che sono state fatte localmente e se fai modifiche puoi partire da li
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+dovrei usare altri mezzi online per scambiare i file e dovrei creare nuovi file per ogni modifica e trovare le modifiche personalmente
