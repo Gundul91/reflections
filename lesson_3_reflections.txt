@@ -4,4 +4,8 @@ quando voglio condividere il mio progetto con altri persone
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-perchè potrei non voler caricare una modifica
+perchÃ¨ potrei non voler caricare una modifica
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+hai tutte le ultime modifiche che sono state fatte localmente e se fai modifiche puoi partire da li
