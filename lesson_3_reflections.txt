@@ -13,3 +13,7 @@ hai tutte le ultime modifiche che sono state fatte localmente e se fai modifiche
 -How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 dovrei usare altri mezzi online per scambiare i file e dovrei creare nuovi file per ogni modifica e trovare le modifiche personalmente
+
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+nel nuovo branch quando sono test di nuove funzioni non pianificate, in quello principale lavoro sulle funzioni pianificate
